@@ -7,10 +7,12 @@ public class GitDemo01 {
         System.out.println("hello git projects");
         System.out.println("hello git projects");
         System.out.println("hello git projects");
+        //哈哈哈
     }
         public void test(){
-        int i =1;
-        i++;
-            System.out.println(i);
+            for (int i = 0; i < 10; i++) {
+                System.out.println(i);
+            }
+           // System.out.println(i);
         }
 }
